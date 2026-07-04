@@ -1,0 +1,6 @@
+{
+  "name": "MS Pro Plumbing & Heating",
+  "description": "Reliable Plumbing, Heating & Gas Services. Providing high-quality workmanship, honest pricing, and dependable service in the UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
